@@ -1,0 +1,6 @@
+C:\Study\SIC\ISMPrakt05\LibForArray\bin\Debug\LibForArray.dll
+C:\Study\SIC\ISMPrakt05\LibForArray\bin\Debug\LibForArray.pdb
+C:\Study\SIC\ISMPrakt05\LibForArray\obj\Debug\LibForArray.csproj.AssemblyReference.cache
+C:\Study\SIC\ISMPrakt05\LibForArray\obj\Debug\LibForArray.csproj.CoreCompileInputs.cache
+C:\Study\SIC\ISMPrakt05\LibForArray\obj\Debug\LibForArray.dll
+C:\Study\SIC\ISMPrakt05\LibForArray\obj\Debug\LibForArray.pdb

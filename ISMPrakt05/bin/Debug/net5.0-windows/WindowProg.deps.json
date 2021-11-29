@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WindowProg/1.0.0": {
+        "dependencies": {
+          "LibForArray": "1.0.0"
+        },
+        "runtime": {
+          "WindowProg.dll": {}
+        }
+      },
+      "LibForArray/1.0.0": {
+        "runtime": {
+          "LibForArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowProg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibForArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

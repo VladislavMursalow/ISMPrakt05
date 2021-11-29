@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleAppPract05/1.0.0": {
+        "dependencies": {
+          "LibForArray": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAppPract05.dll": {}
+        }
+      },
+      "LibForArray/1.0.0": {
+        "runtime": {
+          "LibForArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppPract05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibForArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
